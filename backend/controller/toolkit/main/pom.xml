@@ -27,7 +27,7 @@
     <nexusproxy>http://nexus.opendaylight.org/content</nexusproxy>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <virgo.version>3.6.0.RELEASE</virgo.version>
-    <slf4j.version>1.7.2</slf4j.version>
+    <slf4j.version>1.7.32</slf4j.version>
     <logback.version>1.0.9</logback.version>
     <jersey.version>1.17</jersey.version>
     <surefire.version>2.15</surefire.version>
