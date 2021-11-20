@@ -28,7 +28,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <virgo.version>3.6.0.RELEASE</virgo.version>
     <slf4j.version>1.7.2</slf4j.version>
-    <logback.version>1.0.9</logback.version>
+    <logback.version>1.2.7</logback.version>
     <jersey.version>1.17</jersey.version>
     <surefire.version>2.15</surefire.version>
     <checkstyle.version>2.10</checkstyle.version>
